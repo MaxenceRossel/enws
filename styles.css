@@ -337,7 +337,6 @@ body {
     font-weight: bold;
 }
 
-/* Reservation Section */
 .reservation {
     padding: 60px 20px;
     background-color: var(--accent-color);
@@ -675,7 +674,6 @@ body {
 }
 
 @media (max-width: 768px) {
-    /* Navigation */
     .navbar .container {
         padding: 0 15px;
     }
@@ -725,7 +723,6 @@ body {
         background-color: #f8f9fa;
     }
 
-    /* Hero Section */
     .hero {
         padding: 50px 20px;
         min-height: 300px;
@@ -740,7 +737,6 @@ body {
         font-size: 0.95rem;
     }
 
-    /* About Section */
     .about {
         padding: 30px 15px;
     }
@@ -761,7 +757,6 @@ body {
         margin-top: 1.5rem;
     }
 
-    /* Menu Section */
     .menu {
         padding: 30px 15px;
     }
@@ -793,7 +788,6 @@ body {
         margin-bottom: 1rem;
     }
 
-    /* Contact Section */
     .contact {
         padding: 30px 15px;
     }
@@ -820,7 +814,6 @@ body {
         font-size: 0.9rem;
     }
 
-    /* Highlight Section */
     .highlight {
         padding: 40px 15px;
     }
@@ -833,7 +826,6 @@ body {
         font-size: 1rem;
     }
 
-    /* Gallery Section */
     .gallery-section {
         padding: 40px 15px;
     }
@@ -858,7 +850,6 @@ body {
         font-size: 0.9rem;
     }
 
-    /* Why Us Section */
     .why-us {
         padding: 40px 15px;
     }
@@ -885,7 +876,6 @@ body {
         font-size: 0.9rem;
     }
 
-    /* CTA Section */
     .cta-section {
         padding: 40px 15px;
     }
@@ -898,13 +888,11 @@ body {
         font-size: 1rem;
     }
 
-    /* Buttons */
     .btn {
         padding: 12px 20px;
         font-size: 0.9rem;
     }
 
-    /* Forms */
     .form {
         padding: 1.5rem;
         max-width: 100%;
@@ -919,7 +907,6 @@ body {
         font-size: 1rem;
     }
 
-    /* Footer */
     .footer {
         padding: 1.5rem 15px;
         font-size: 0.85rem;
@@ -939,14 +926,12 @@ body {
         height: 20px;
     }
 
-    /* Container padding */
     .container {
         padding: 0 15px;
     }
 }
 
 @media (max-width: 480px) {
-    /* Extra small devices */
     .logo {
         font-size: 1rem;
     }
@@ -1008,7 +993,6 @@ body {
         padding: 1rem;
     }
 
-    /* Reservation */
     .reservation {
         padding: 40px 15px;
     }
@@ -1021,7 +1005,6 @@ body {
         padding: 1.2rem;
     }
 
-    /* Buttons */
     .btn {
         padding: 10px 15px;
         font-size: 0.9rem;
